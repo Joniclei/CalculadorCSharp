@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/CalculadorCSharp/bin/Debug/net7.0/CalculadorCSharp
+/Users/Admin/Desktop/CalculadorCSharp/bin/Debug/net7.0/CalculadorCSharp.deps.json
+/Users/Admin/Desktop/CalculadorCSharp/bin/Debug/net7.0/CalculadorCSharp.runtimeconfig.json
+/Users/Admin/Desktop/CalculadorCSharp/bin/Debug/net7.0/CalculadorCSharp.dll
+/Users/Admin/Desktop/CalculadorCSharp/bin/Debug/net7.0/CalculadorCSharp.pdb
+/Users/Admin/Desktop/CalculadorCSharp/obj/Debug/net7.0/CalculadorCSharp.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/CalculadorCSharp/obj/Debug/net7.0/CalculadorCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/CalculadorCSharp/obj/Debug/net7.0/CalculadorCSharp.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/CalculadorCSharp/obj/Debug/net7.0/CalculadorCSharp.AssemblyInfo.cs
+/Users/Admin/Desktop/CalculadorCSharp/obj/Debug/net7.0/CalculadorCSharp.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/CalculadorCSharp/obj/Debug/net7.0/CalculadorCSharp.dll
+/Users/Admin/Desktop/CalculadorCSharp/obj/Debug/net7.0/refint/CalculadorCSharp.dll
+/Users/Admin/Desktop/CalculadorCSharp/obj/Debug/net7.0/CalculadorCSharp.pdb
+/Users/Admin/Desktop/CalculadorCSharp/obj/Debug/net7.0/CalculadorCSharp.genruntimeconfig.cache
+/Users/Admin/Desktop/CalculadorCSharp/obj/Debug/net7.0/ref/CalculadorCSharp.dll
